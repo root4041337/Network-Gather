@@ -1,0 +1,16 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>NetworkGather_Console</RootNamespace>
+    <ApplicationIcon>Jesus2.ico</ApplicationIcon>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Reference Include="Colorful.Console">
+      <HintPath>..\..\..\..\Desktop\NavyCord (Stuff)\New Design\NavyCord - Discord Tool\NavyCord - Discord Tool\bin\Debug\Colorful.Console.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>

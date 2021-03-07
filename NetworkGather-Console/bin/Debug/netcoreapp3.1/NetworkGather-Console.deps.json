@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "NetworkGather-Console/1.0.0": {
+        "dependencies": {
+          "Colorful.Console": "1.2.9.0"
+        },
+        "runtime": {
+          "NetworkGather-Console.dll": {}
+        }
+      },
+      "Colorful.Console/1.2.9.0": {
+        "runtime": {
+          "Colorful.Console.dll": {
+            "assemblyVersion": "1.2.9.0",
+            "fileVersion": "1.2.9.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "NetworkGather-Console/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Colorful.Console/1.2.9.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
